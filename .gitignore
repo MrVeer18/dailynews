@@ -41,7 +41,4 @@ testem.log
 .DS_Store
 Thumbs.db
 
-# Environment Variable
-# Ignore environment files
-src/environments/environment.ts
-src/environments/environment.development.ts
+
